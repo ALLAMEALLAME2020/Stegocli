@@ -612,9 +612,6 @@ python -c "from PIL import Image; Image.open('photo.jpg').save('photo.png')"
 
 ---
 
-## License
-
-MIT License — see [LICENSE](LICENSE) for full text.
 
 ---
 
